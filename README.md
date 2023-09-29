@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @MartinLauff
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently mastering my MERN stack skills
+- 🌱 I mastered my MERN stack skills
 
 Hello and welcome to my Github profile! I am a maniac in developing extensive web applications. Before starting my bachelor studies in Germany I completed several courses on Udemy and created more than a few projects. The most notable ones are:
 
