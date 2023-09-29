@@ -1,8 +1,16 @@
 - 👋 Hi, I’m @MartinLauff
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently mastering my MERN stack skills
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+Hello and welcome to my Github profile! I am a maniac in designing and developing extensive web applications. Before starting my bachelor studies in Germany I completed several courses on Udemy and created more than a few projects. But only two of them stand out to me.
+
+## Quizeck
+It's a short and entertaining quiz to test your knowledge of Geography. Check out the pinned repository for more!
+
+## StoryTell
+This is the project I am most proud of. StoryTell is a social media platform with thoughtful UI and all the essential features for social interaction. After designing and developing for a total of 7 months I finally declared this project to be complete. Apart from receiving praise from my peers, I had a chance to present this website at the university's student club called Open Research Space (see my profile picture).
+To learn more about this project follow the pinned repository!
+
 
 <!---
 MartinLauff/MartinLauff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
